@@ -4,7 +4,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@jose--dls-181717?style=for-the-badge&logo=github)](https://github.com/jose-dls/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@josedls-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jose-dls/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@jose--dls-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jose-dls/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ffc8dd?style=for-the-badge)](https://www.josedls.dev/)
 
 </div>
